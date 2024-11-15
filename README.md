@@ -1,24 +1,8 @@
-[![Github All Releases](https://img.shields.io/github/downloads/flooowd/steam-hour-boost/total.svg)]()
-[![Github Stars](https://img.shields.io/github/stars/flooowd/steam-hour-boost)]()
-[![Github Forks](https://img.shields.io/github/forks/flooowd/steam-hour-boost)]()
-[![Github Issues](https://img.shields.io/github/issues/flooowd/steam-hour-boost)]()
+[![Github All Releases](https://img.shields.io/github/downloads/antsently/steam-hour-boost/total.svg)]()
+[![Github Stars](https://img.shields.io/github/stars/antsently/steam-hour-boost)]()
+[![Github Forks](https://img.shields.io/github/forks/antsently/steam-hour-boost)]()
+[![Github Issues](https://img.shields.io/github/issues/antsently/steam-hour-boost)]()
 
-# 🚀 Steam Hour Boost - Free & Open Source Hour Boost
+# 🚀 Steam Hour Boost - Free & Open Source Hour Boost (Fork by antsently)
 
-### [Download Here](https://github.com/flooowd/steam-hour-boost/releases) the compiled version.
-
-[![Terminal](https://cdn.upload.systems/uploads/rT91Ga90.png)]()
-
-
-
-## Or compile yourself using the code below
-
-```console
-git clone https://github.com/flooowd/steam-hour-boost.git
-cd steam-hour-boost-main
-pip install -r requirements.txt
-cd src
-pyinstaller --noconfirm --onefile --console  "./main.py"
-```
-
-### Get the Game ID in: [https://steamdb.info/search/](https://steamdb.info/search/)
+I made this fork for myself, I don't pretend to be a perfect code and the last instance of the developer, but please specify the name if you take the code!
